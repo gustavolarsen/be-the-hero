@@ -13,7 +13,8 @@ Durante cada dia da semana Omnistack 11 foi desenvolvido uma etapa da aplicaçã
 - Dia 1: Entendimento do projeto e conceitos básicos.
 - Dia 2: Desenvolvimento da API em NodeJS.
 - Dia 3 Desenvolvido o frontend Web com ReactJS
-- Dia 4: Programação do aplicativo Mobile com React-Native - Dia 5: último dia da semana Omnistack, foram feitos refinamentos de código e considerações finais.
+- Dia 4: Programação do aplicativo Mobile com React-Native 
+- Dia 5: último dia da semana Omnistack, foram feitos refinamentos de código e considerações finais.
 
 ## Tecnologias utilizadas
 
