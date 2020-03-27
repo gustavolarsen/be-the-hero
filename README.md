@@ -3,11 +3,17 @@
 
 Este projeto foi criado durante a semana Omnistack 11 promovida pela [Rockseat](https://rocketseat.com.br).
 
-O Be The Hero é uma aplicação criada para conectar pessoas que tem o desejo de ajudar, de alguma forma, ONGs que necessitam de algum tipo de ajuda.
+O Be The Hero é uma aplicação desenvolvida para conectar pessoas que tem o desejo de ajudar, de alguma forma, ONGs que necessitam de algum tipo de auxílio.
 
-Através da aplicação WEB, as ONGs poderão fazer seu cadastro e cadastrar seus casos de ajuda.
+Através da aplicação WEB as ONGs poderão fazer seu cadastro e cadastrar seus casos de necessidade de ajuda.
 
-E pelo aplicativo Mobile, as pessoas que querem ajudar, poderão encontrar essas ONGs e entender um pouco mais sobre cada caso. E por ele também será possivel entrar em contato com a ONG.
+Pelo aplicativo Mobile, as pessoas que querem ajudar, poderão encontrar essas ONGs e entender um pouco mais sobre cada caso e entrar em contato com a ONG.
+
+Durante cada dia da semana Omnistack 11 foi desenvolvido uma etapa da aplicação:
+- Dia 1: Entendimento do projeto e conceitos básicos.
+- Dia 2: Desenvolvimento da API em NodeJS.
+- Dia 3 Desenvolvido o frontend Web com ReactJS
+- Dia 4: Programação do aplicativo Mobile com React-Native - Dia 5: último dia da semana Omnistack, foram feitos refinamentos de código e considerações finais.
 
 ## Tecnologias utilizadas
 
