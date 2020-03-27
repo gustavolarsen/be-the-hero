@@ -9,4 +9,4 @@ Backend [CONCLUIDO]
 
 Frontend Web [CONCLUIDO]
 
-Frontend Mobile [EM DESENVOLVIMENTO]
+Frontend Mobile [CONCLUIDO]
