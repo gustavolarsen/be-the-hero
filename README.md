@@ -6,5 +6,7 @@ Ainda em desenvovimento ...
 Status do desenvolvimeno
 
 Backend [CONCLUIDO]
+
 Frontend Web [CONCLUIDO]
+
 Frontend Mobile [NAO INICIADO]
