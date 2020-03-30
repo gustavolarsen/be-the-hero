@@ -21,6 +21,7 @@ Durante cada dia da semana Omnistack 11 foi desenvolvido uma etapa da aplicaçã
 - NodeJS para desenvolvimento de uma API para backend
 - ReactJS para criação da aplicação Web
 - React-native para criação do aplicativo Mobile
+- Banco de dados SQLite
 
 ## Telas do aplicativo Mobile
 
