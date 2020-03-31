@@ -2,10 +2,15 @@
     <img alt="BeTheHero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
 </h1>
 
-## Telas da aplicação
-<p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
-</p>
+## Projeto
+
+Este projeto foi criado durante a semana Omnistack 11 promovida pela [Rockseat](https://rocketseat.com.br).
+
+O Be The Hero é uma aplicação que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's.
+
+Através da aplicação WEB as ONG's poderão fazer seu cadastro e cadastrar seus casos de necessidade de ajuda.
+
+Pelo aplicativo Mobile, as pessoas que querem ajudar poderão encontrar essas ONG's e seus respectivos casos e entrar em contato para fazer a sua contribuição.
 
 ## Tecnologias
 
@@ -17,16 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [SQLite](https://www.sqlite.org/)
 
-## Projeto
+### Telas da aplicação
 
-Este projeto foi criado durante a semana Omnistack 11 promovida pela [Rockseat](https://rocketseat.com.br).
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
 
-O Be The Hero é uma aplicação que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's.
 
-Através da aplicação WEB as ONG's poderão fazer seu cadastro e cadastrar seus casos de necessidade de ajuda.
-
-Pelo aplicativo Mobile, as pessoas que querem ajudar poderão encontrar essas ONG's e seus respectivos casos e entrar em contato para fazer a sua contribuição.
-
----
-
-Autor: Gustavo Larsen
+### Autor
+Gustavo Larsen [@gustavoslarsen](https://twitter.com/gustavoslarsen)
