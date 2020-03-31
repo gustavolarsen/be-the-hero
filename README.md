@@ -2,6 +2,10 @@
     <img alt="BeTheHero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
 </h1>
 
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
+
 ## Projeto
 
 Este projeto foi criado durante a semana Omnistack 11 promovida pela [Rockseat](https://rocketseat.com.br).
@@ -22,12 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [SQLite](https://www.sqlite.org/)
 
-### Telas da aplicação
-
-<p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
-</p>
-
-
-### Autor
+## Autor
 Gustavo Larsen [@gustavoslarsen](https://twitter.com/gustavoslarsen)
