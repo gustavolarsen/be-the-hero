@@ -20,11 +20,11 @@ Pelo aplicativo Mobile, as pessoas que querem ajudar poderão encontrar essas ON
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) - API
-- [React](https://reactjs.org) - frontend web
-- [React Native](https://facebook.github.io/react-native/) - frontend mobile
-- [Expo](https://expo.io/) - emulador mobile
-- [SQLite](https://www.sqlite.org/) - banco de dados
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org) 
+- [React Native](https://facebook.github.io/react-native/) 
+- [Expo](https://expo.io/) 
+- [SQLite](https://www.sqlite.org/) 
 
 ## Autor
 Gustavo Larsen [@gustavoslarsen](https://twitter.com/gustavoslarsen)
